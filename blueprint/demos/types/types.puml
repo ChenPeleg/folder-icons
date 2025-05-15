@@ -1,0 +1,26 @@
+@startuml
+allowmixing
+class ClassName {
+    +attribute1 : Type
+    +method1() : ReturnType
+}
+
+abstract class AbstractClassName {
+    +attribute1 : Type
+    +method1() : ReturnType
+}
+ note "abc" as N1
+
+
+interface InterfaceName {
+    +method1() : ReturnType
+}
+
+usecase UseCaseName
+
+component "ComponentName" #lightblue/teal {
+   attribute1 : Type
+}
+
+node NodeName
+@enduml

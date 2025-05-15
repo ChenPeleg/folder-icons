@@ -1,0 +1,12 @@
+@startuml
+start
+:Start Activity;
+:Perform Action 1;
+if (Condition A?) then (yes)
+  :Perform Action 2;
+else (no)
+  :Perform Action 3;
+endif
+:Perform Action 4;
+stop
+@enduml

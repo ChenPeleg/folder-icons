@@ -1,0 +1,29 @@
+@startuml
+entity Users {
+    * UserID : INT
+    * Username : VARCHAR(50)
+    * Email : VARCHAR(100)
+    * PasswordHash : VARCHAR(255)
+    * CreatedAt : TIMESTAMP
+}
+
+entity Posts {
+    * PostID : INT
+    * UserID : INT
+    * Title : VARCHAR(255)
+    * Content : TEXT
+    * CreatedAt : TIMESTAMP
+}
+
+entity Comments {
+    * CommentID : INT
+    * PostID : INT
+    * UserID : INT
+    * Content : TEXT
+    * CreatedAt : TIMESTAMP
+}
+
+Users ||--o{ Posts : "UserID"
+Posts ||--o{ Comments : "PostID"
+Users ||--o{ Comments : "UserID"
+@enduml

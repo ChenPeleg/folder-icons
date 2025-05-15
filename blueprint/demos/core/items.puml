@@ -1,0 +1,11 @@
+@startuml
+skinparam monochrome false
+component "Component" #lightblue/teal
+interface "Interface" #lightblue/teal
+database "Database" #crimson/pink
+
+"Database" -> "Component"
+
+
+
+@enduml

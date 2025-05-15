@@ -1,0 +1,11 @@
+@startuml
+package "Web Application" {
+  [Frontend] --> [Backend]
+  [Backend] --> [Database]
+  [Backend] --> [Authentication Service]
+}
+
+package "External Services" {
+  [Authentication Service] --> [OAuth Provider]
+}
+@enduml

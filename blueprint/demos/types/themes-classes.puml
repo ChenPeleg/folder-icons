@@ -1,0 +1,41 @@
+@startuml
+
+skinparam class {
+BackgroundColor PaleGreen
+ArrowColor SeaGreen
+BorderColor SpringGreen
+BackgroundColor<<Foo>> Wheat
+BorderColor<<Foo>> Tomato
+}
+skinparam stereotypeCBackgroundColor YellowGreen
+skinparam stereotypeCBackgroundColor<< Foo >> DimGray
+
+class Class01 <<Foo>>
+class Class03 <<Foo>>
+Class01 "1" *-- "many" Class02 : contains
+
+Class03 o-- Class04 : aggregation
+title Bracketed line style with label
+class foo
+class bar
+bar1 : [bold]
+bar2 : [dashed]
+bar3 : [dotted]
+bar4 : [hidden]
+bar5 : [plain]
+
+foo --> bar          : ∅
+foo -[bold]-> bar1   : [bold]
+foo -[dashed]-> bar2 : [dashed]
+foo -[dotted]-> bar3 : [dotted]
+foo -[hidden]-> bar4 : [hidden]
+foo -[plain]-> bar5  : [plain]
+
+
+abstract   abstract
+annotation annotation #pink;line:red;line.bold;text:red
+class      class      #palegreen;line:green;line.dashed;text:green
+interface  interface  #aliceblue;line:blue;line.dotted;text:blue
+
+
+@enduml

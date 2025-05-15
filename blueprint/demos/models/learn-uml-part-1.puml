@@ -1,0 +1,41 @@
+@startuml
+allowmixing
+title UML Diagrams
+class User {
+}
+package "Class Diagram" {
+  class User {
+    +String name
+    +String email
+    +login()
+    +logout()
+  }
+
+  class Admin {
+    +String adminCode
+    +manageUsers()
+  }
+
+  Admin -> User
+}
+
+package "Use Case Diagram" {
+  actor Person
+  usecase "Login" as UC1
+  usecase "Logout" as UC2
+
+  User -> UC1
+  User -> UC2
+}
+
+package "Sequence Diagram" {
+  actor User
+
+  User -> System: Login
+}
+
+
+
+
+
+@enduml

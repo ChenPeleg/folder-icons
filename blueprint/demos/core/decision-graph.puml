@@ -1,0 +1,25 @@
+@startuml
+skinparam defaultFontSize 26
+skinparam backgroundColor #F0F8FF
+skinparam activity {
+  BackgroundColor #ADD8E6/RED
+  BorderColor #00008B
+  FontColor #00008B
+}
+skinparam arrow {
+  Color #00008B
+  FontColor #00008B
+}
+
+start
+-> Starting;
+:Activity 1<font size=40><&check></font>;
+if (Question) then (yes)
+  :Option;
+else (no)
+  :Option 2;
+endif
+:Activity 2;
+-> Stopping;
+stop
+@enduml

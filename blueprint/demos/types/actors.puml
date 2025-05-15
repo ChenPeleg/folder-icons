@@ -1,0 +1,8 @@
+@startuml
+skinparam actorStyle awesome
+'skinparam actorStyle Hollow
+actor User
+
+
+@enduml
+

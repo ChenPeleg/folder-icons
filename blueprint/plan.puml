@@ -1,0 +1,18 @@
+@startuml
+class User {
+  +String id
+  +String name
+  +String email
+  +login()
+  +logout()
+}
+
+class Admin {
+  +String adminCode
+  +manageUsers()
+}
+
+
+
+
+@enduml

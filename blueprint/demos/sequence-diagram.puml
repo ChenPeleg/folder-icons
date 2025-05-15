@@ -1,0 +1,20 @@
+@startuml
+actor User
+participant "Web Browser" as Browser
+participant "Web Server" as Server
+participant "Database" as DB
+
+User -> Browser: Request Login Page
+Browser -> Server: Fetch Login Page
+Server -> DB: Query User Data
+DB --> Server: Return User Data
+Server --> Browser: Serve Login Page
+Browser --> User: Display Login Page
+
+User -> Browser: Submit Login Form
+Browser -> Server: Send Login Data
+Server -> DB: Validate User Credentials
+DB --> Server: Return Validation Result
+Server --> Browser: Serve Dashboard
+Browser --> User: Display Dashboard
+@enduml
