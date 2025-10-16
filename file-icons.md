@@ -2,10 +2,12 @@
 
 # steps:
 1. look at the file :
-`file-icons/file-icons.js`
+`file-icons/file-icons.js` - done
 
-2. Search for icons that could be used for ts or tsx files
-3. list in this md file the relavant icons and their  icon type, and thiere regex
+2. Search for icons that could be used for ts or tsx files - done
+3. list in this md file the relevant icons and their  icon type, and there regex - done
+4. add each of this files to the `file-icons` folder in this repo, the content of the file could just be a comment with
+`// icon: <icon-type>`  
 
 # found:
 
