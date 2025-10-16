@@ -9,7 +9,7 @@
 4. add each of this files to the `file-icons` folder in this repo, the content of the file could just be a comment with
 `// icon: <icon-type>`  
 5. look in the `file-icons` folder. if two files have the same icon type put onlt the first one. otherwise delete the file
-
+6. add more file icons, that are not .ts or .tsx but can have a ts or tsx variant (firebase.ts)
 # found:
 
 ## Primary TypeScript Icons
