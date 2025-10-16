@@ -2,7 +2,7 @@
 
 # steps:
 1. look at the file :
-`file-icons/file-icons.js` - done
+`tech/file-icons.js` - done
 
 2. Search for icons that could be used for ts or tsx files - done
 3. list in this md file the relevant icons and their  icon type, and there regex - done
