@@ -144,3 +144,33 @@
 - **Regex**: `/\bgridsome\.(?:config|client|server)\.[jt]s$/i`
 - **Priority**: 2
 - **Description**: Gridsome configuration files in TypeScript
+
+### 20. moleculer-icon (TypeScript config)
+- **Colors**: ["medium-blue","medium-blue"]
+- **Regex**: `/^moleculer\.config\.(?:[cm]?js|json|ts)$/i`
+- **Priority**: 2
+- **Description**: Moleculer microservices framework configuration in TypeScript
+
+### 21. nuxt-icon (TypeScript config)
+- **Colors**: ["medium-cyan","medium-cyan"]
+- **Regex**: `/^nuxt\.config\.[jt]s$/i`
+- **Priority**: 2
+- **Description**: Nuxt.js configuration in TypeScript
+
+### 22. vite-icon (TypeScript config)
+- **Colors**: ["medium-yellow","dark-yellow"]
+- **Regex**: `/^vite\.config\.[jt]s$/i`
+- **Priority**: 2
+- **Description**: Vite build tool configuration in TypeScript
+
+### 23. windi-icon (TypeScript config)
+- **Colors**: ["medium-blue","medium-blue"]
+- **Regex**: `/^windi\.config\.[tj]s$/i`
+- **Priority**: 2
+- **Description**: Windi CSS configuration in TypeScript
+
+### 24. tailwind-icon (TypeScript config)
+- **Colors**: ["medium-cyan","medium-cyan"]
+- **Regex**: `/^\.?tailwind(?:\.config)?\.(?:[cm]?js|ts|coffee)$/i`
+- **Priority**: 2
+- **Description**: Tailwind CSS configuration in TypeScript
