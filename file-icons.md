@@ -73,19 +73,25 @@
 
 ## Build Tool Icons (TypeScript variants)
 
-### 9. grunt-icon (TypeScript)
+### 9. brunch-icon (TypeScript)
+- **Colors**: ["medium-green","medium-green"]
+- **Regex**: `/^brunch-config\.(?:[cm]?js|coffee|ts)$/i`
+- **Priority**: 2
+- **Description**: Brunch configuration files in TypeScript
+
+### 10. grunt-icon (TypeScript)
 - **Colors**: ["medium-blue","medium-blue"]
 - **Regex**: `/^gruntfile.*\.tsx?$/i`
 - **Priority**: 2
 - **Description**: Grunt configuration files in TypeScript
 
-### 10. gulp-icon (TypeScript)
+### 11. gulp-icon (TypeScript)
 - **Colors**: ["medium-blue","medium-blue"]
 - **Regex**: `/^gulpfile.*\.tsx?$/i`
 - **Priority**: 2
 - **Description**: Gulp configuration files in TypeScript
 
-### 11. karma-icon (TypeScript)
+### 12. karma-icon (TypeScript)
 - **Colors**: ["medium-cyan","medium-cyan"]
 - **Regex**: `/^karma\.conf(?:ig)?\.[cm]?js$|^karma\.conf(?:ig)?\.ts$/i`
 - **Priority**: 2
@@ -93,7 +99,7 @@
 
 ## Storybook Icons (TypeScript variants)
 
-### 12. storybook-icon (TypeScript)
+### 13. storybook-icon (TypeScript)
 - **Colors**: ["medium-blue","medium-blue"]
 - **Regex**: `/\.(?:story|stories)\.tsx?$/i`
 - **Priority**: 2
@@ -101,13 +107,13 @@
 
 ## Styled Components Icons (TypeScript variants)
 
-### 13. nailpolish-icon (.sc.ts)
+### 14. nailpolish-icon (.sc.ts)
 - **Colors**: ["medium-blue","medium-blue"]
 - **Regex**: `/\.sc\.ts$/i`
 - **Priority**: 2
 - **Description**: Styled components in TypeScript
 
-### 14. nailpolish-icon (.sc.tsx)
+### 15. nailpolish-icon (.sc.tsx)
 - **Colors**: ["light-blue","light-blue"]
 - **Regex**: `/\.sc\.tsx$/i`
 - **Priority**: 2
@@ -115,25 +121,25 @@
 
 ## Other Config Files
 
-### 15. snowpack-icon (TypeScript config)
+### 16. snowpack-icon (TypeScript config)
 - **Colors**: ["dark-blue","dark-blue"]
 - **Regex**: `/^snowpack\.config\.(?:[cm]?js|ts|json)$/i`
 - **Priority**: 2
 - **Description**: Snowpack configuration in TypeScript
 
-### 16. stitches-icon (TypeScript config)
+### 17. stitches-icon (TypeScript config)
 - **Colors**: ["medium-purple","medium-purple"]
 - **Regex**: `/^\.?stitches\.config\.(?:[cm]?js|ts)$/i`
 - **Priority**: 2
 - **Description**: Stitches CSS-in-JS configuration in TypeScript
 
-### 17. quasar-icon (TypeScript config)
+### 18. quasar-icon (TypeScript config)
 - **Colors**: ["medium-blue","medium-blue"]
 - **Regex**: `/^quasar\.conf(?:ig)?\.[cm]?[jt]s$/i`
 - **Priority**: 2
 - **Description**: Quasar framework configuration in TypeScript
 
-### 18. gridsome-icon (TypeScript config)
+### 19. gridsome-icon (TypeScript config)
 - **Colors**: ["medium-cyan","medium-cyan"]
 - **Regex**: `/\bgridsome\.(?:config|client|server)\.[jt]s$/i`
 - **Priority**: 2
