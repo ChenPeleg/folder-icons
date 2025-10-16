@@ -8,6 +8,7 @@
 3. list in this md file the relevant icons and their  icon type, and there regex - done
 4. add each of this files to the `file-icons` folder in this repo, the content of the file could just be a comment with
 `// icon: <icon-type>`  
+5. look in the `file-icons` folder. if two files have the same icon type put onlt the first one. otherwise delete the file
 
 # found:
 
