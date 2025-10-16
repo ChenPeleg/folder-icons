@@ -1,7 +1,0 @@
-// icon: config-ts-icon
-{
-  "compilerOptions": {
-    "baseUrl": "."
-  }
-}
-
