@@ -20,15 +20,11 @@ The structure of the html is as follows:
 
 ```javascrip
 const folderIcons = [
-  {
-    order : 1
-    name: "Node Modules", 
-    pattern: "^node_modules$",
-    folderNames: "node_modules",
-    icon: "/icons/folders/node_modules.svg",
-    type: "exact"
-  },
+  {num : 1, name: "Node Modules", pattern: "^node_modules$", folderNames: "node_modules", icon: "/icons/folders/node_modules.svg", type: "exact"},
   // Add more icons here
 ];
 ```
 
+also, please add a comment to the file that indicates how many folder icons were converted:
+// Total folder icons found: X
+// Total folder icons converted: Y
