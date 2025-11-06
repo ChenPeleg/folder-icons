@@ -21,9 +21,8 @@ The structure of the html is as follows:
 ```javascrip
 const folderIcons = [
   {
-    name: "Node Modules",
-    iconColor: "#8BC34A",
-    priority: 50,
+    order : 1
+    name: "Node Modules", 
     pattern: "^node_modules$",
     folderNames: "node_modules",
     icon: "/icons/folders/node_modules.svg",
