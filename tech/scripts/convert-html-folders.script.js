@@ -82,8 +82,6 @@ class HtmlFolderConverter {
 
         const obj = {
           name: name || null,
-          iconColor: null,
-          priority: null,
           pattern: null,
           folderNames: null,
           icon: icon,
@@ -103,8 +101,6 @@ class HtmlFolderConverter {
         // Normalize keys: folder icons may use folderNames or folderName; we pick folderNames if present
         const obj = {
           name: assoc.name ?? null,
-          iconColor: assoc.iconColor ?? null,
-          priority: assoc.priority ?? null,
           pattern: assoc.pattern ?? null,
           folderNames: assoc.folderNames ?? assoc.folderNames ?? null,
           icon: assoc.icon ?? null,
@@ -116,7 +112,7 @@ class HtmlFolderConverter {
       } catch (err) {
         // If parsing fails, include a placeholder entry with raw association for debugging
         const raw = this.unescapeAttr(assocRaw);
-        items.push({ name: null, iconColor: null, priority: null, pattern: null, folderNames: null, icon: null, type: null, _assocRaw: raw });
+        items.push({ name: null,  pattern: null, folderNames: null, icon: null, type: null, _assocRaw: raw });
       }
     }
 
@@ -153,8 +149,6 @@ class HtmlFolderConverter {
       };
 
       add('name', it.name ?? null);
-      add('iconColor', it.iconColor ?? null);
-      add('priority', it.priority ?? null);
       add('pattern', it.pattern ?? null);
       add('folderNames', it.folderNames ?? null);
       add('icon', it.icon ?? null);
