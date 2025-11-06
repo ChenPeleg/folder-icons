@@ -26,7 +26,7 @@ const folderIcons = [
 ```
 
 ## Steps to Complete the Task
-
+# Step 1: Create a Nodejs Script
 1. Read the first 40 lines of the file `tech/folders/folder-icons-as-html-from-site.html`.
 2. Build a Nodejs script in ESModules js that converts the HTML folder icon representations into JavaScript objects.
 3. Each JavaScript object should have the following properties:
@@ -40,6 +40,17 @@ const folderIcons = [
 4. Store all the JavaScript objects in an array called `folderIcons`.
 5. Each object in the array should be one row (no new lines).
 6. There should be a new line between each object in the array.
+7. The script will write the array to a new js file called `folder-icons-from-html.js` in the `tech/folders/` directory.
+8. Write the script to a file: `tech/folder/convert-html-folders.script.js`.
+# Step 2: Refactor the script
+1. Ensure the script is clean and well-commented.
+2. Make sure to handle any potential errors, such as file reading issues.
+3. Make sure the script has one class that does the conversion.
+4. each mini task should be in its own method.
+
+# Step 3: Output the Result
+1. Run the script to generate the `folderIcons` array.
+
 7. add a comment to the file that indicates how many folder icons were converted
 
 also, please add a comment to the file that indicates how many folder icons were converted:
