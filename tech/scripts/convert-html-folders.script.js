@@ -164,7 +164,7 @@ class HtmlFolderConverter {
     lines.push('');
     lines.push('export default folderIcons;');
 
-    return lines.join('');
+    return lines.join('\n');
   }
 
   async writeOutput(content) {
