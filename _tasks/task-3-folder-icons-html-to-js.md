@@ -25,6 +25,23 @@ const folderIcons = [
 ];
 ```
 
+## Steps to Complete the Task
+
+1. Read the first 40 lines of the file `tech/folders/folder-icons-as-html-from-site.html`.
+2. Build a Nodejs script in ESModules js that converts the HTML folder icon representations into JavaScript objects.
+3. Each JavaScript object should have the following properties:
+    - `name`: The name of the folder icon.
+    - `iconColor`: The color associated with the icon.
+    - `priority`: The priority of the icon.
+    - `pattern`: The regex pattern for matching folder names.
+    - `folderNames`: The specific folder names associated with the icon.
+    - `icon`: The path to the icon image.
+    - `type`: The type of matching (e.g., "exact", "regex").
+4. Store all the JavaScript objects in an array called `folderIcons`.
+5. Each object in the array should be one row (no new lines).
+6. There should be a new line between each object in the array.
+7. add a comment to the file that indicates how many folder icons were converted
+
 also, please add a comment to the file that indicates how many folder icons were converted:
 // Total folder icons found: X
 // Total folder icons converted: Y
