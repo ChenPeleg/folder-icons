@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "convert-folders": "node tech/scripts/convert-html-folders.script.js"
+    "convert-folders": "node tech/scripts/convert-html-folders.script.js",
+    "filter-only-folders": "node tech/scripts/filter-only-folders.script.js"
   }
 }
 
