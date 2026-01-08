@@ -1,15 +1,17 @@
-import fs from 'fs';
-import path from 'path';
-import { createRequire } from 'module';
+const fs = require('fs');
+const path = require('path');
 
-const require = createRequire(import.meta.url);
-
-const sourceFile = path.join(process.cwd(), 'icon.library.atom-icons.js');
-const targetFile = path.join(process.cwd(), 'icon.library.atom.only-folders.js');
+const sourceFile = path.join(__dirname, 'icon.library.atom-icons.cjs');
+const targetFile = path.join(__dirname, 'icon.library.atom.only-folders.js');
 
 const data = require(sourceFile);
 
 const records = data[0];
+
+console.log('Data length:', data.length);
+console.log('Data[0] length:', data[0].length);
+console.log('First record length:', records[0].length);
+console.log('Third element:', records[0][2]);
 
 const filteredRecords = records.filter(record => {
     const regex = record[2];
@@ -18,6 +20,9 @@ const filteredRecords = records.filter(record => {
     }
     return false;
 });
+
+console.log('Total records:', records.length);
+console.log('Filtered records:', filteredRecords.length);
 
 function serializeValue(value) {
     if (value instanceof RegExp) {
