@@ -128,324 +128,102 @@ const folderIconsOnlyFolders = [
     "type": null
   },
   {
-    "name": "controllers",
-    "pattern": null,
+    "name": "controllers", "pattern": null,
     "folderNames": null,
     "icon": "/icons/icons/folders/controllers.svg",
     "type": null
   },
   {
     "name": "core",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/core.svg",
-    "type": null
+    "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/core.svg", "type": null
   },
-  {
-    "name": "coverage",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/coverage.svg",
-    "type": null
+  { "name": "coverage", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/coverage.svg", "type": null
   },
-  {
-    "name": "crates",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/crates.svg",
-    "type": null
+  { "name": "crates", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/crates.svg", "type": null
   },
-  {
-    "name": "cron",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/cron.svg",
-    "type": null
+  { "name": "cron", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/cron.svg", "type": null
   },
-  {
-    "name": "cubit",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/cubit.svg",
-    "type": null
+  { "name": "cubit", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/cubit.svg", "type": null
   },
-  {
-    "name": "custom",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/custom.svg",
-    "type": null
+  { "name": "custom", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/custom.svg", "type": null
   },
-  {
-    "name": "cvs",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/cvs.svg",
-    "type": null
+  { "name": "cvs", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/cvs.svg", "type": null
   },
-  {
-    "name": "dapr",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/dapr.svg",
-    "type": null
+  { "name": "dapr", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/dapr.svg", "type": null
   },
-  {
-    "name": "debug",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/debug.svg",
-    "type": null
+  { "name": "debug", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/debug.svg", "type": null
   },
-  {
-    "name": "decorators",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/decorators.svg",
-    "type": null
+  { "name": "decorators", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/decorators.svg", "type": null
   },
-  {
-    "name": "default",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/default.svg",
-    "type": null
+  { "name": "default", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/default.svg", "type": null
   },
-  {
-    "name": "delta",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/delta.svg",
-    "type": null
+  { "name": "delta", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/delta.svg", "type": null
   },
-  {
-    "name": "deploy",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/deploy.svg",
-    "type": null
+  { "name": "deploy", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/deploy.svg", "type": null
   },
-  {
-    "name": "dist",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/dist.svg",
-    "type": null
+  { "name": "dist", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/dist.svg", "type": null
   },
-  {
-    "name": "docs",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/docs.svg",
-    "type": null
+  { "name": "docs", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/docs.svg", "type": null
   },
-  {
-    "name": "domain",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/domain.svg",
-    "type": null
+  { "name": "domain", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/domain.svg", "type": null
   },
-  {
-    "name": "download",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/download.svg",
-    "type": null
+  { "name": "download", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/download.svg", "type": null
   },
-  {
-    "name": "dropbox",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/dropbox.svg",
-    "type": null
+  { "name": "dropbox", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/dropbox.svg", "type": null
   },
-  {
-    "name": "dump",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/dump.svg",
-    "type": null
+  { "name": "dump", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/dump.svg", "type": null
   },
-  {
-    "name": "e2e",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/e2e.svg",
-    "type": null
+  { "name": "e2e", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/e2e.svg", "type": null
   },
-  {
-    "name": "elixir",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/elixir.svg",
-    "type": null
+  { "name": "elixir", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/elixir.svg", "type": null
   },
-  {
-    "name": "empties",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/empties.svg",
-    "type": null
+  { "name": "empties", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/empties.svg", "type": null
   },
-  {
-    "name": "env",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/env.svg",
-    "type": null
+  { "name": "env", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/env.svg", "type": null
   },
-  {
-    "name": "error",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/error.svg",
-    "type": null
+  { "name": "error", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/error.svg", "type": null
   },
-  {
-    "name": "events",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/events.svg",
-    "type": null
+  { "name": "events", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/events.svg", "type": null
   },
-  {
-    "name": "examples",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/examples.svg",
-    "type": null
+  { "name": "examples", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/examples.svg", "type": null
   },
-  {
-    "name": "exclude",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/exclude.svg",
-    "type": null
+  { "name": "exclude", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/exclude.svg", "type": null
   },
-  {
-    "name": "faq",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/faq.svg",
-    "type": null
+  { "name": "faq", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/faq.svg", "type": null
   },
-  {
-    "name": "favorites",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/favorites.svg",
-    "type": null
+  { "name": "favorites", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/favorites.svg", "type": null
   },
-  {
-    "name": "features",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/features.svg",
-    "type": null
+  { "name": "features", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/features.svg", "type": null
   },
-  {
-    "name": "fixtures",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/fixtures.svg",
-    "type": null
+  { "name": "fixtures", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/fixtures.svg", "type": null
   },
-  {
-    "name": "fluig",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/fluig.svg",
-    "type": null
+  { "name": "fluig", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/fluig.svg", "type": null
   },
-  {
-    "name": "folder",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/folder.svg",
-    "type": null
+  { "name": "folder", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/folder.svg", "type": null
   },
-  {
-    "name": "folder-root",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/folder-root.svg",
-    "type": null
+  { "name": "folder-root", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/folder-root.svg", "type": null
   },
-  {
-    "name": "fonts",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/fonts.svg",
-    "type": null
+  { "name": "fonts", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/fonts.svg", "type": null
   },
-  {
-    "name": "functions",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/functions.svg",
-    "type": null
+  { "name": "functions", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/functions.svg", "type": null
   },
-  {
-    "name": "gcloud",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/gcloud.svg",
-    "type": null
+  { "name": "gcloud", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/gcloud.svg", "type": null
   },
-  {
-    "name": "generated",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/generated.svg",
-    "type": null
+  { "name": "generated", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/generated.svg", "type": null
   },
-  {
-    "name": "gitea",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/gitea.svg",
-    "type": null
+  { "name": "gitea", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/gitea.svg", "type": null
   },
-  {
-    "name": "github",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/github.svg",
-    "type": null
+  { "name": "github", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/github.svg", "type": null
   },
-  {
-    "name": "global",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/global.svg",
-    "type": null
+  { "name": "global", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/global.svg", "type": null
   },
-  {
-    "name": "grunt",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/grunt.svg",
-    "type": null
+  { "name": "grunt", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/grunt.svg", "type": null
   },
-  {
-    "name": "guard",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/guard.svg",
-    "type": null
+  { "name": "guard", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/guard.svg", "type": null
   },
-  {
-    "name": "gulp",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/gulp.svg",
-    "type": null
+  { "name": "gulp", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/gulp.svg", "type": null
   },
-  {
-    "name": "helper",
-    "pattern": null,
-    "folderNames": null,
+  { "name": "helper", "pattern": null, "folderNames": null,
     "icon": "/icons/icons/folders/helper.svg",
     "type": null
   },
