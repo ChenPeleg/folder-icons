@@ -65,77 +65,27 @@ const folderIconsOnlyFolders = [
     "type": null
   },
   {
-    "name": "cnab",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/cnab.svg",
-    "type": null
+    "name": "cnab", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/cnab.svg", "type": null
   },
-  {
-    "name": "components",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/components.svg",
-    "type": null
+  { "name": "components", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/components.svg", "type": null
   },
-  {
-    "name": "conductor",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/conductor.svg",
-    "type": null
+  { "name": "conductor", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/conductor.svg", "type": null
   },
-  {
-    "name": "config",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/config.svg",
-    "type": null
+  { "name": "config", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/config.svg", "type": null
   },
-  {
-    "name": "connection",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/connection.svg",
-    "type": null
+  { "name": "connection", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/connection.svg", "type": null
   },
-  {
-    "name": "constants",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/constants.svg",
-    "type": null
+  { "name": "constants", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/constants.svg", "type": null
   },
-  {
-    "name": "container",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/container.svg",
-    "type": null
+  { "name": "container", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/container.svg", "type": null
   },
-  {
-    "name": "content",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/content.svg",
-    "type": null
+  { "name": "content", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/content.svg", "type": null
   },
-  {
-    "name": "contract",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/contract.svg",
-    "type": null
+  { "name": "contract", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/contract.svg", "type": null
   },
-  {
-    "name": "controllers", "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/controllers.svg",
-    "type": null
+  { "name": "controllers", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/controllers.svg", "type": null
   },
-  {
-    "name": "core",
-    "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/core.svg", "type": null
+  { "name": "core", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/core.svg", "type": null
   },
   { "name": "coverage", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/coverage.svg", "type": null
   },
@@ -223,698 +173,205 @@ const folderIconsOnlyFolders = [
   },
   { "name": "gulp", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/gulp.svg", "type": null
   },
-  { "name": "helper", "pattern": null, "folderNames": null,
-    "icon": "/icons/icons/folders/helper.svg",
-    "type": null
-  },
-  {
-    "name": "home",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/home.svg",
-    "type": null
-  },
-  {
-    "name": "hook",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/hook.svg",
-    "type": null
-  },
-  {
-    "name": "icons",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/icons.svg",
-    "type": null
-  },
-  {
-    "name": "images",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/images.svg",
-    "type": null
-  },
-  {
-    "name": "include",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/include.svg",
-    "type": null
-  },
-  {
-    "name": "info",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/info.svg",
-    "type": null
-  },
-  {
-    "name": "init",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/init.svg",
-    "type": null
-  },
-  {
-    "name": "injection",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/injection.svg",
-    "type": null
-  },
-  {
-    "name": "interceptor",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/interceptor.svg",
-    "type": null
-  },
-  {
-    "name": "internal",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/internal.svg",
-    "type": null
-  },
-  {
-    "name": "ios",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/ios.svg",
-    "type": null
-  },
-  {
-    "name": "iosapp",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/iosapp.svg",
-    "type": null
-  },
-  {
-    "name": "islands",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/islands.svg",
-    "type": null
-  },
-  {
-    "name": "job",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/job.svg",
-    "type": null
-  },
-  {
-    "name": "keys",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/keys.svg",
-    "type": null
-  },
-  {
-    "name": "layouts",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/layouts.svg",
-    "type": null
-  },
-  {
-    "name": "linux",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/linux.svg",
-    "type": null
-  },
-  {
-    "name": "logs",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/logs.svg",
-    "type": null
-  },
-  {
-    "name": "mac",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/mac.svg",
-    "type": null
-  },
-  {
-    "name": "mailers",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/mailers.svg",
-    "type": null
-  },
-  {
-    "name": "main",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/main.svg",
-    "type": null
-  },
-  {
-    "name": "maps",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/maps.svg",
-    "type": null
-  },
-  {
-    "name": "math",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/math.svg",
-    "type": null
-  },
-  {
-    "name": "messages",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/messages.svg",
-    "type": null
-  },
-  {
-    "name": "meta",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/meta.svg",
-    "type": null
-  },
-  {
-    "name": "middleware",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/middleware.svg",
-    "type": null
-  },
-  {
-    "name": "mobile",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/mobile.svg",
-    "type": null
-  },
-  {
-    "name": "mocks",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/mocks.svg",
-    "type": null
-  },
-  {
-    "name": "modals",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/modals.svg",
-    "type": null
-  },
-  {
-    "name": "models",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/models.svg",
-    "type": null
-  },
-  {
-    "name": "molecules",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/molecules.svg",
-    "type": null
-  },
-  {
-    "name": "mongo",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/mongo.svg",
-    "type": null
-  },
-  {
-    "name": "msw",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/msw.svg",
-    "type": null
-  },
-  {
-    "name": "navigation",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/navigation.svg",
-    "type": null
-  },
-  {
-    "name": "next",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/next.svg",
-    "type": null
-  },
-  {
-    "name": "node",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/node.svg",
-    "type": null
-  },
-  {
-    "name": "notebooks",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/notebooks.svg",
-    "type": null
-  },
-  {
-    "name": "notification",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/notification.svg",
-    "type": null
-  },
-  {
-    "name": "obsidian",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/obsidian.svg",
-    "type": null
-  },
-  {
-    "name": "orders",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/orders.svg",
-    "type": null
-  },
-  {
-    "name": "osx",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/osx.svg",
-    "type": null
-  },
-  {
-    "name": "other",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/other.svg",
-    "type": null
-  },
-  {
-    "name": "packages",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/packages.svg",
-    "type": null
-  },
-  {
-    "name": "pipe",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/pipe.svg",
-    "type": null
-  },
-  {
-    "name": "plugin",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/plugin.svg",
-    "type": null
-  },
-  {
-    "name": "posts",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/posts.svg",
-    "type": null
-  },
-  {
-    "name": "private",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/private.svg",
-    "type": null
-  },
-  {
-    "name": "projects",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/projects.svg",
-    "type": null
-  },
-  {
-    "name": "providers",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/providers.svg",
-    "type": null
-  },
-  {
-    "name": "queries",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/queries.svg",
-    "type": null
-  },
-  {
-    "name": "queue",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/queue.svg",
-    "type": null
-  },
-  {
-    "name": "redhat",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redhat.svg",
-    "type": null
-  },
-  {
-    "name": "redux",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux.svg",
-    "type": null
-  },
-  {
-    "name": "redux-actions",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux-actions.svg",
-    "type": null
-  },
-  {
-    "name": "redux-epics",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux-epics.svg",
-    "type": null
-  },
-  {
-    "name": "redux-reducers",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux-reducers.svg",
-    "type": null
-  },
-  {
-    "name": "redux-sagas",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux-sagas.svg",
-    "type": null
-  },
-  {
-    "name": "redux-stores",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/redux-stores.svg",
-    "type": null
-  },
-  {
-    "name": "relay",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/relay.svg",
-    "type": null
-  },
-  {
-    "name": "resolver",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/resolver.svg",
-    "type": null
-  },
-  {
-    "name": "resource",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/resource.svg",
-    "type": null
-  },
-  {
-    "name": "reviews",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/reviews.svg",
-    "type": null
-  },
-  {
-    "name": "root",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/root.svg",
-    "type": null
-  },
-  {
-    "name": "rules",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/rules.svg",
-    "type": null
-  },
-  {
-    "name": "screens",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/screens.svg",
-    "type": null
-  },
-  {
-    "name": "scripts",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/scripts.svg",
-    "type": null
-  },
-  {
-    "name": "security",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/security.svg",
-    "type": null
-  },
-  {
-    "name": "seed",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/seed.svg",
-    "type": null
-  },
-  {
-    "name": "server",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/server.svg",
-    "type": null
-  },
-  {
-    "name": "shared",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/shared.svg",
-    "type": null
-  },
-  {
-    "name": "skeletons",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/skeletons.svg",
-    "type": null
-  },
-  {
-    "name": "src",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/src.svg",
-    "type": null
-  },
-  {
-    "name": "sso",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/sso.svg",
-    "type": null
-  },
-  {
-    "name": "stack",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/stack.svg",
-    "type": null
-  },
-  {
-    "name": "storage",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/storage.svg",
-    "type": null
-  },
-  {
-    "name": "storyblok",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/storyblok.svg",
-    "type": null
-  },
-  {
-    "name": "strategy",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/strategy.svg",
-    "type": null
-  },
-  {
-    "name": "styled",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/styled.svg",
-    "type": null
-  },
-  {
-    "name": "styles",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/styles.svg",
-    "type": null
-  },
-  {
-    "name": "supabase",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/supabase.svg",
-    "type": null
-  },
-  {
-    "name": "svg",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/svg.svg",
-    "type": null
-  },
-  {
-    "name": "sync",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/sync.svg",
-    "type": null
-  },
-  {
-    "name": "syntax",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/syntax.svg",
-    "type": null
-  },
-  {
-    "name": "target",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/target.svg",
-    "type": null
-  },
-  {
-    "name": "tasks",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/tasks.svg",
-    "type": null
-  },
-  {
-    "name": "tech",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/tech.svg",
-    "type": null
-  },
-  {
-    "name": "temp",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/temp.svg",
-    "type": null
-  },
-  {
-    "name": "tests",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/tests.svg",
-    "type": null
-  },
-  {
-    "name": "themes",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/themes.svg",
-    "type": null
-  },
-  {
-    "name": "tools",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/tools.svg",
-    "type": null
-  },
-  {
-    "name": "totvs",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/totvs.svg",
-    "type": null
-  },
-  {
-    "name": "trait",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/trait.svg",
-    "type": null
-  },
-  {
-    "name": "trash",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/trash.svg",
-    "type": null
-  },
-  {
-    "name": "ts",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/ts.svg",
-    "type": null
-  },
-  {
-    "name": "ui",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/ui.svg",
-    "type": null
-  },
-  {
-    "name": "upload",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/upload.svg",
-    "type": null
-  },
-  {
-    "name": "users",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/users.svg",
-    "type": null
-  },
-  {
-    "name": "venv",
-    "pattern": null,
-    "folderNames": null,
-    "icon": "/icons/icons/folders/venv.svg",
-    "type": null
-  },
-  {
-    "name": "viewmodel",
+  { "name": "helper", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/helper.svg", "type": null
+  },
+  { "name": "home", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/home.svg", "type": null
+  },
+  { "name": "hook", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/hook.svg", "type": null
+  },
+  { "name": "icons", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/icons.svg", "type": null
+  },
+  { "name": "images", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/images.svg", "type": null
+  },
+  { "name": "include", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/include.svg", "type": null
+  },
+  { "name": "info", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/info.svg", "type": null
+  },
+  { "name": "init", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/init.svg", "type": null
+  },
+  { "name": "injection", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/injection.svg", "type": null
+  },
+  { "name": "interceptor", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/interceptor.svg", "type": null
+  },
+  { "name": "internal", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/internal.svg", "type": null
+  },
+  { "name": "ios", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/ios.svg", "type": null
+  },
+  { "name": "iosapp", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/iosapp.svg", "type": null
+  },
+  { "name": "islands", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/islands.svg", "type": null
+  },
+  { "name": "job", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/job.svg", "type": null
+  },
+  { "name": "keys", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/keys.svg", "type": null
+  },
+  { "name": "layouts", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/layouts.svg", "type": null
+  },
+  { "name": "linux", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/linux.svg", "type": null
+  },
+  { "name": "logs", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/logs.svg", "type": null
+  },
+  { "name": "mac", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/mac.svg", "type": null
+  },
+  { "name": "mailers", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/mailers.svg", "type": null
+  },
+  { "name": "main", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/main.svg", "type": null
+  },
+  { "name": "maps", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/maps.svg", "type": null
+  },
+  { "name": "math", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/math.svg", "type": null
+  },
+  { "name": "messages", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/messages.svg", "type": null
+  },
+  { "name": "meta", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/meta.svg", "type": null
+  },
+  { "name": "middleware", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/middleware.svg", "type": null
+  },
+  { "name": "mobile", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/mobile.svg", "type": null
+  },
+  { "name": "mocks", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/mocks.svg", "type": null
+  },
+  { "name": "modals", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/modals.svg", "type": null
+  },
+  { "name": "models", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/models.svg", "type": null
+  },
+  { "name": "molecules", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/molecules.svg", "type": null
+  },
+  { "name": "mongo", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/mongo.svg", "type": null
+  },
+  { "name": "msw", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/msw.svg", "type": null
+  },
+  { "name": "navigation", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/navigation.svg", "type": null
+  },
+  { "name": "next", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/next.svg", "type": null
+  },
+  { "name": "node", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/node.svg", "type": null
+  },
+  { "name": "notebooks", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/notebooks.svg", "type": null
+  },
+  { "name": "notification", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/notification.svg", "type": null
+  },
+  { "name": "obsidian", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/obsidian.svg", "type": null
+  },
+  { "name": "orders", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/orders.svg", "type": null
+  },
+  { "name": "osx", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/osx.svg", "type": null
+  },
+  { "name": "other", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/other.svg", "type": null
+  },
+  { "name": "packages", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/packages.svg", "type": null
+  },
+  { "name": "pipe", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/pipe.svg", "type": null
+  },
+  { "name": "plugin", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/plugin.svg", "type": null
+  },
+  { "name": "posts", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/posts.svg", "type": null
+  },
+  { "name": "private", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/private.svg", "type": null
+  },
+  { "name": "projects", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/projects.svg", "type": null
+  },
+  { "name": "providers", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/providers.svg", "type": null
+  },
+  { "name": "queries", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/queries.svg", "type": null
+  },
+  { "name": "queue", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/queue.svg", "type": null
+  },
+  { "name": "redhat", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redhat.svg", "type": null
+  },
+  { "name": "redux", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux.svg", "type": null
+  },
+  { "name": "redux-actions", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux-actions.svg", "type": null
+  },
+  { "name": "redux-epics", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux-epics.svg", "type": null
+  },
+  { "name": "redux-reducers", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux-reducers.svg", "type": null
+  },
+  { "name": "redux-sagas", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux-sagas.svg", "type": null
+  },
+  { "name": "redux-stores", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/redux-stores.svg", "type": null
+  },
+  { "name": "relay", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/relay.svg", "type": null
+  },
+  { "name": "resolver", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/resolver.svg", "type": null
+  },
+  { "name": "resource", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/resource.svg", "type": null
+  },
+  { "name": "reviews", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/reviews.svg", "type": null
+  },
+  { "name": "root", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/root.svg", "type": null
+  },
+  { "name": "rules", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/rules.svg", "type": null
+  },
+  { "name": "screens", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/screens.svg", "type": null
+  },
+  { "name": "scripts", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/scripts.svg", "type": null
+  },
+  { "name": "security", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/security.svg", "type": null
+  },
+  { "name": "seed", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/seed.svg", "type": null
+  },
+  { "name": "server", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/server.svg", "type": null
+  },
+  { "name": "shared", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/shared.svg", "type": null
+  },
+  { "name": "skeletons", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/skeletons.svg", "type": null
+  },
+  { "name": "src", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/src.svg", "type": null
+  },
+  { "name": "sso", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/sso.svg", "type": null
+  },
+  { "name": "stack", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/stack.svg", "type": null
+  },
+  { "name": "storage", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/storage.svg", "type": null
+  },
+  { "name": "storyblok", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/storyblok.svg", "type": null
+  },
+  { "name": "strategy", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/strategy.svg", "type": null
+  },
+  { "name": "styled", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/styled.svg", "type": null
+  },
+  { "name": "styles", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/styles.svg", "type": null
+  },
+  { "name": "supabase", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/supabase.svg", "type": null
+  },
+  { "name": "svg", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/svg.svg", "type": null
+  },
+  { "name": "sync", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/sync.svg", "type": null
+  },
+  { "name": "syntax", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/syntax.svg", "type": null
+  },
+  { "name": "target", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/target.svg", "type": null
+  },
+  { "name": "tasks", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/tasks.svg", "type": null
+  },
+  { "name": "tech", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/tech.svg", "type": null
+  },
+  { "name": "temp", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/temp.svg", "type": null
+  },
+  { "name": "tests", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/tests.svg", "type": null
+  },
+  { "name": "themes", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/themes.svg", "type": null
+  },
+  { "name": "tools", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/tools.svg", "type": null
+  },
+  { "name": "totvs", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/totvs.svg", "type": null
+  },
+  { "name": "trait", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/trait.svg", "type": null
+  },
+  { "name": "trash", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/trash.svg", "type": null
+  },
+  { "name": "ts", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/ts.svg", "type": null
+  },
+  { "name": "ui", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/ui.svg", "type": null
+  },
+  { "name": "upload", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/upload.svg", "type": null
+  },
+  { "name": "users", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/users.svg", "type": null
+  },
+  { "name": "venv", "pattern": null, "folderNames": null, "icon": "/icons/icons/folders/venv.svg", "type": null
+  },
+  { "name": "viewmodel",
     "pattern": null,
     "folderNames": null,
     "icon": "/icons/icons/folders/viewmodel.svg",
