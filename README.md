@@ -7,3 +7,9 @@ Atom Material Icons
 
 Check this link for more details:
 https://a-file-icon-idea.netlify.app/icons/
+
+
+custom names with regex:
+
+project-* 
+react-*
